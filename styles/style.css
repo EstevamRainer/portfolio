@@ -153,6 +153,11 @@ body {
     color: #fff;
 }
 
+.tamanho__icone {
+    height: 32px;
+    width: 33px;
+}
+
 @media (max-width: 800px){
     
     .cabecalho__menu{

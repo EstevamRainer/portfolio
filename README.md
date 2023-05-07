@@ -1,7 +1,7 @@
 # Portfólio
 Oi, seja bem vindo(a) ao meu projeto **Portifólio**
 
-![Print](https://user-images.githubusercontent.com/122125357/225328327-077eee00-7b72-4675-8e2a-ea7b42f3ef81.jpeg)
+![image](https://user-images.githubusercontent.com/122125357/236706451-7c0d6cef-cabb-474a-a93f-a882b7749b18.png)
 ## 🛠 Ferramentas Utilizadas
 * HTML;
 * CSS;

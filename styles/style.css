@@ -38,7 +38,7 @@ body {
 .apresentacao {
     padding: 5% 10% 10% 10%;
     display: flex;
-    align-items: center;
+    align-items: top;
     justify-content: space-between;
     gap:84px;
    
@@ -98,11 +98,10 @@ body {
     
 }
 .apresentacao__imagem {
-    width: 31.25rem;
-    height: 42.5rem;
-    border-radius: 1.25rem;
-    border: 0.62rem solid #FF0022;
-    width: 50%;
+    border-radius: 1.5rem;
+    border: 0.62rem solid #000000;
+    width: 40%;
+    height: 40%
 }
 
 
@@ -152,6 +151,11 @@ body {
 
 .apresentacao__conteudo__lista__itens__certificado:hover {
     color: #fff;
+}
+
+.tamanho__icone {
+    height: 32px;
+    width: 33px;
 }
 
 @media (max-width: 800px){
